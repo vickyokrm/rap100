@@ -1,0 +1,4 @@
+@EndUserText.label: 'Service definition for ZOV_C_RAP100_TRAVEL'
+define service ZOV_UI_RAP100_TRAVEL_O4 {
+  expose ZOV_C_RAP100_TRAVEL;
+}
